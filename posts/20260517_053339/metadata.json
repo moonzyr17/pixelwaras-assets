@@ -1,0 +1,29 @@
+{
+  "type": "crypto_education",
+  "kategori": "crypto",
+  "format": "multi",
+  "hook": "Crypto bukan ATM, ini yang lo harus tau",
+  "slides": [
+    "Crypto bukan ATM, ini yang lo harus tau",
+    "Wallet = rekening lo, private key hilang = uang hilang selamanya",
+    "DeFi itu bebas bank, tapi risiko liquidasi nyata banget",
+    "Meme coin bisa 10x, bisa juga nol dalam semalam",
+    "Belajar dulu, FOMO belakangan — dompet lo tanggung jawab lo"
+  ],
+  "author": "Crypto Notes",
+  "caption": "Basic crypto yang sering dilewatin. Pahamin dulu sebelum nyemplung. Bukan financial advice ya — semua keputusan balik ke lo sendiri.",
+  "hashtags": [
+    "#crypto",
+    "#belajarcrypto",
+    "#web3",
+    "#fyp",
+    "#defi",
+    "#cryptoindonesia",
+    "#blockchain"
+  ],
+  "visual_style": "cyber_neon",
+  "sound_mood": "dark tech / phonk / crypto vibe",
+  "content_type": "crypto_education",
+  "teks": "Crypto bukan ATM, ini yang lo harus tau",
+  "penulis": "Crypto Notes"
+}
